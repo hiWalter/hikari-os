@@ -1,0 +1,14 @@
+This small project is an operating system
+writing in Rust, which achieves:
+    Kernel?
+
+TO DO:
+
+
+Reference:
+Linux Kernel:
+    https://github.com/torvalds/linux.git
+Minix Kernel:
+    https://github.com/Stichting-MINIX-Research-Foundation/minix.git
+Write an OS in Rust:
+    https://github.com/phil-opp/blog_os.git
